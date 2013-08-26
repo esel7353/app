@@ -10,3 +10,5 @@
 
 -projekt sprache?
 -sprache im programm?
+
+-programmiersprach für server? python, java, c++?

@@ -27,6 +27,7 @@ class TestView extends android.view.View {
   TestView (android.content.Context context) {
     super(context);
     paint = new android.graphics.Paint();
+    paint.setTextSize(20);
     paint.setARGB(255, 255, 0, 0);
   }
 

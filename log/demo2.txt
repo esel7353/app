@@ -1,0 +1,8 @@
+demo2 logfile
+====================
+
+*Created the project 'demo2'
+*Added a text field (/res/layout/main.xml)
+  *Added a string resource (/res/values/strings.xml)
+
+*few other strings were added for futurapplications (/res/values/strings.xml)

@@ -5,15 +5,15 @@
   android:layout_width="fill_parent"
   android:layout_height="fill_parent"
   >
-<EditText android:id="@+id/edit_message"
-  android:layout_width="warp_content"
-  android:layout:height="wrap_content"
-  android:hint="@string/edit_message"
-  >
-<TextView
-  android:layout_width="fill_parent"
-  android:layout_height="wrap_content"
-  android:text="Hello World, MainActivity"
-  />
+  <EditText android:id="@+id/edit_message"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="@string/edit_message"
+    />
+  <TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Hello World, MainActivity"
+    />
 </LinearLayout>
 

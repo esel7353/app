@@ -6,6 +6,14 @@ download sdk: http://developer.android.com/sdk/index.html
 > export PATH=${PATH}:~/adt-bundle-linux-x86_64/sdk/platform-tools
 > export PATH=${PATH}:~/adt-bundle-linux-x86_64/sdk/tools
 
+sdk needs the 32-bit version of the C++-standard-library.
+For installation use:
+
+> sudo apt-get install libstdc++6:i386
+
+and for Ubuntu 13.10 64-bit you might need lib32zl
+
+>sudo apt-get install lib32zl
 
 ================================================================================
 create new project
@@ -36,4 +44,6 @@ start emulator
 ================================================================================
 install app on phone
 --------------------------------------------------------------------------------
+You need:
+> sudo apt-get install android-tools-adb
 > adb install bin/HelloWorld-debug.apk

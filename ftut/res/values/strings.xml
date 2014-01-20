@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message1">enter your name</string>
+    <string name="edit_message2">enter another name</string>
+    <string name="button_send">send</string>
+    <string name="title_activity_main">Demo App</string>
+    <string name="title_activity_display_message">Text</string>
+    <string name="action_info">Information</string>
+    <string name="help">Please enter two names and press \'send\'. Then you can read a little poem. </string>
+    <string name="poem">_1 and _2\n
+Sitting in a tree.\n
+K-I-S-S-I-N-G.\n
+First comes love,\n
+Then comes marriage,\n
+The comes _2\n
+With a baby carriage.\n
+\n
+Source: Abrahams (1969), Solomon (1980), Hastings (1990)</string>
+</resources>

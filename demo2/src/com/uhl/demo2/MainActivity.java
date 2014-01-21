@@ -50,7 +50,7 @@ public class MainActivity extends Activity
         EditText editText2 = (EditText) findViewById(R.id.edit_message2);
         String word = editText1.getText().toString();
         String text = editText2.getText().toString();
-        intent.putExtra(EXTRA_MESSAGE, text.replace(word, word));
+        intent.putExtra(EXTRA_MESSAGE, text.replace(" "+word+" "," HIER >"+word+"<HIER "));
         startActivity(intent);
     }
 }

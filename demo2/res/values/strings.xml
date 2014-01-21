@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Demo2</string>
-  <string name="edit_message">Your message</string>
-  <string name="button_send">Enter</string>
-  <string name="action_settings">Settings</string>
-  <string name="title_main">DemoApp2</string>
-  <string name="title_activity_display_message">Your text:</string>
+  <string name="edit_message1">Word to search for</string>
+  <string name="edit_message2">Text</string>
+  <string name="button_send">Search</string>
+  <string name="action_info">Information</string>
+  <string name="title_activity_main">DemoApp2</string>
+  <string name="title_activity_display_message">Result</string>
+  <string name="help">Enter a text and a word to search for in the text.</string>
 </resources>

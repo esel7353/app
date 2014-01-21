@@ -13,7 +13,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.saeuble.demo2.DisplayMessageActivity"
+            android:name="com.uhl.demo2.DisplayMessageActivity"
             android:label="@string/title_activity_display_message"
             android:parentActivityName="com.saeuble.demo2.MainActivity" >
             <meta-data

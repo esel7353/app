@@ -1,3 +1,5 @@
+####Description and open questions relating to the project
+
 -kurznachrichten nur in begrenztem umfeld verschicken
 -permanente botschaften einem ort "anhängen"
 -nachrichten nur lesbar, wenn man an einem bestimmten ort ist
